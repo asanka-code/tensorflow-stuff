@@ -2,6 +2,6 @@
 (1) https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d
 
 (2) http://web.stanford.edu/class/cs20si/syllabus.html
-	Stopped at: "Operations"
+	Stopped at: "Operations" Slide number 70
 
 

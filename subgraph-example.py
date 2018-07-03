@@ -6,6 +6,11 @@ Spyder Editor
 This is a temporary script file.
 """
 
+# Need the following setting to remove the warning message
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+
+# Importing tensorflow module
 import tensorflow as tf
 
 # Some variables to calculate
