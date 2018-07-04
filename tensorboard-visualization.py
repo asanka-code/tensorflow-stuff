@@ -8,8 +8,8 @@ Created on Tue Jul  3 16:28:50 2018
 """
 
 # Need the following setting to remove the warning message
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+#import os
+#os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
 # Importing tensorflow module
 import tensorflow as tf
